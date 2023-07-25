@@ -2,7 +2,7 @@
 
 ## 👋 Hello!
 
-I'm Louis, a weeb, a nerd, a handsome young man! I was summoned into this world 4 years and 2 decades ago, and I'm located at one of the countries within the ring of fire, in south east Asia.
+I am good at writing bad code.
 
 ## 🤟 What I do
 
